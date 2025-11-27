@@ -94,10 +94,10 @@ local VALID_KEYS_HWID_MAP = {
             ["17c889c7-3f71-47f8-b4b6-add13286b75f"] = true
         }
     },        
-    ["keyforstegs"] = {
-        Expiration = "2026-10-03",
+    ["keyforzuksik"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["EEF2DD94-ADB3-4B0D-8C0C-9809AC444AD0"] = true
+            ["9A326F60-ABC8-478C-9599-92325208B363"] = true
         }
     },        
     ["keyforbai"] = {
