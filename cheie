@@ -88,10 +88,10 @@ local VALID_KEYS_HWID_MAP = {
             ["e364df3c-1659-4074-b45f-a3f1586dd1d0"] = true
         }
     },        
-    ["keyforkrabee"] = {
-        Expiration = "2026-10-03",
+    ["keyfordon"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["FB5CAD80-21DF-45DB-94F6-1E7727FB7E2D"] = true
+            ["17c889c7-3f71-47f8-b4b6-add13286b75f"] = true
         }
     },        
     ["keyforstegs"] = {
