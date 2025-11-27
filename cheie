@@ -124,10 +124,10 @@ local VALID_KEYS_HWID_MAP = {
             ["6CD24723-13D2-4599-B084-DF704E60D602"] = true
         }
     },        
-    ["keyforbai"] = {
-        Expiration = "2026-10-03",
+    ["keyformypkapro"] = {
+        Expiration = "2026-01-01",
         HWIDs = {
-            [""] = true
+            ["28F03B0B-3180-4720-A595-EE3D22E02225"] = true
         }
     },      
     ["keyforzenxth"] = {
