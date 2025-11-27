@@ -100,16 +100,16 @@ local VALID_KEYS_HWID_MAP = {
             ["9A326F60-ABC8-478C-9599-92325208B363"] = true
         }
     },        
-    ["keyforbai"] = {
-        Expiration = "2026-10-03",
+    ["keyforqriz"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
+            ["DE9A7EA1-BCCC-4867-B7CA-E24DEB916878"] = true
         }
     },        
-    ["keyforbai"] = {
+    ["keyfornivtmc"] = {
         Expiration = "2026-10-03",
         HWIDs = {
-            [""] = true
+            ["3A74761C-DA92-4EA8-B620-EEB71283B25A"] = true
         }
     },        
     ["keyforbai"] = {
