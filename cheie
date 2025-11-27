@@ -130,10 +130,10 @@ local VALID_KEYS_HWID_MAP = {
             ["28F03B0B-3180-4720-A595-EE3D22E02225"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyfornotcool"] = {
+        Expiration = "2026-01-07",
         HWIDs = {
-            [""] = true
+            ["A0C2A3DB-085B-4319-BDFE-00AA6E44BAE3"] = true
         }
     },
     ["keyfor"] = {
