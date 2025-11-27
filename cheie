@@ -15,7 +15,7 @@ local playerName = localPlayer.Name
 -- || Configure Admin Keys (Bypass HWID check & Expiration)             || --
 -- ======================================================================= --
 local ADMIN_KEYS = {
-    ["eloelo320"] = true, -- Klucze admina nie wygasają
+    ["suntgang"] = true, -- Klucze admina nie wygasają
     ["keyisyoursheart"] = true
 }
 -- ======================================================================= --
@@ -28,10 +28,10 @@ local ADMIN_KEYS = {
 -- ======================================================================= --
 local VALID_KEYS_HWID_MAP = {
     -- Format: ["klucz"] = { Expiration = "RRRR-MM-DD", HWIDs = { ["HWID_1"] = true, ["HWID_2"] = true } }
-    ["keyforaalzinn"] = {
-        Expiration = "2026-10-02",
+    ["keyforala"] = {
+        Expiration = "2025-12-28",
         HWIDs = {
-            ["4FD2E641-97C4-420A-B8B0-52CED2924CBE"] = true
+            ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
         }
     },
     ["fentanylkey"] = {
