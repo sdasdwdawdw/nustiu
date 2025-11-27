@@ -125,15 +125,15 @@ local VALID_KEYS_HWID_MAP = {
         }
     },        
     ["keyformypkapro"] = {
-        Expiration = "2026-01-01",
+        Expiration = "2026-01-10",
         HWIDs = {
             ["28F03B0B-3180-4720-A595-EE3D22E02225"] = true
         }
     },      
-    ["keyforzenxth"] = {
-        Expiration = "2026-10-04",
+    ["keyformatte"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["EA0D96A5-EF20-4AC1-AAA5-ED5EC123C1BB"] = true
+            ["5BCABC4C-B007-44FA-9C61-5A7C3F6EFCBC"] = true
         }
     },           
 }
