@@ -76,16 +76,16 @@ local VALID_KEYS_HWID_MAP = {
             ["FFA01121-BAF5-4E66-B02E-A2A43ACFF279"] = true
         }
     },        
-    ["keyforyoupoem"] = {
-        Expiration = "2026-10-03",
+    ["keyforlikegun"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["6D87726E-B0B2-4C34-A3D8-DA18C0578316"] = true
+            ["9FBE141E-AF92-43D0-9758-5304405139CF"] = true
         }
     },       
-    ["keyforyoupoem"] = {
-        Expiration = "2026-10-03",
+    ["keyforretro"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["6D87726E-B0B2-4C34-A3D8-DA18C0578316"] = true
+            ["e364df3c-1659-4074-b45f-a3f1586dd1d0"] = true
         }
     },        
     ["keyforkrabee"] = {
