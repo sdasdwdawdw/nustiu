@@ -52,28 +52,28 @@ local VALID_KEYS_HWID_MAP = {
             ["F72440F5-E577-4819-A90D-05C3F87751CC"] = true
         }
     },     
-    ["keyforyourussianmate"] = {
-        Expiration = "2026-09-29",
+    ["keyforjaber"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["A9553F6B-F8E7-4466-A306-D7A4010CEAFE"] = true
+            ["67993c2b-e6c4-4faf-a1c0-4f4cfda826c2"] = true
         }
     },    
-    ["keyisyourslord"] = {
-        Expiration = "2026-10-03",
+    ["keyforgolem"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["94DFD94B-7D29-4E30-9D17-70B38A13BDDF"] = true
+            ["E3439AC3-7254-4526-B062-6DFD34DAFD68"] = true
         }
     },        
-    ["keyisyoursdev"] = {
-        Expiration = "2026-10-03",
+    ["keyforrecyla"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["AC1588C0-3FE9-4B3E-B831-04F70D526336"] = true
+            ["ca26f890-f2a0-41db-a8b3-be475b28cdbb"] = true
         }
     },      
-    ["keyforyouxeri"] = {
-        Expiration = "2026-10-03",
+    ["keyforhg"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["F2F4668C-8A9E-4B53-AB96-24C16CAD4D8B"] = true
+            ["FFA01121-BAF5-4E66-B02E-A2A43ACFF279"] = true
         }
     },        
     ["keyforyoupoem"] = {
