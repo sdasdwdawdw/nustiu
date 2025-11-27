@@ -106,10 +106,10 @@ local VALID_KEYS_HWID_MAP = {
             ["DE9A7EA1-BCCC-4867-B7CA-E24DEB916878"] = true
         }
     },        
-    ["keyfornivtmc"] = {
-        Expiration = "2026-10-03",
+    ["keyforscarry"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["3A74761C-DA92-4EA8-B620-EEB71283B25A"] = true
+            ["482ca7c8-05c8-4995-be9e-0db2ae868804"] = true
         }
     },        
     ["keyforbai"] = {
