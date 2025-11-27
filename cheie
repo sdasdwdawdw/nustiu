@@ -34,13 +34,79 @@ local VALID_KEYS_HWID_MAP = {
             ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
         }
     },
-    ["keyforalah"] = {
-        Expiration = "2025-12-28",
+    ["fentanylkey"] = {
+        Expiration = "2026-10-03",
         HWIDs = {
-            ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
+            ["7A014DD8-EAF3-4D33-A822-78D47E4E1B0B"] = true
         }
     },
-}   
+    ["origamikey"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["28087A64-4F7E-466E-9B70-1ADCA30E5162"] = true
+        }
+    }, 
+    ["keyforcaidy"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["630A81E6-189F-4C4B-879D-CFCC8A87DE5E"] = true
+        }
+    },     
+    ["keyforyourussianmate"] = {
+        Expiration = "2026-09-29",
+        HWIDs = {
+            ["A9553F6B-F8E7-4466-A306-D7A4010CEAFE"] = true
+        }
+    },    
+    ["keyisyourslord"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["94DFD94B-7D29-4E30-9D17-70B38A13BDDF"] = true
+        }
+    },        
+    ["keyisyoursdev"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["AC1588C0-3FE9-4B3E-B831-04F70D526336"] = true
+        }
+    },      
+    ["keyforyouxeri"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["F2F4668C-8A9E-4B53-AB96-24C16CAD4D8B"] = true
+        }
+    },        
+    ["keyforyoupoem"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["6D87726E-B0B2-4C34-A3D8-DA18C0578316"] = true
+        }
+    },       
+    ["keyforyoupoem"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["6D87726E-B0B2-4C34-A3D8-DA18C0578316"] = true
+        }
+    },        
+    ["keyforkrabee"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["FB5CAD80-21DF-45DB-94F6-1E7727FB7E2D"] = true
+        }
+    },        
+    ["keyforstegs"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["EEF2DD94-ADB3-4B0D-8C0C-9809AC444AD0"] = true
+        }
+    },      
+    ["keyforzenxth"] = {
+        Expiration = "2026-10-04",
+        HWIDs = {
+            ["EA0D96A5-EF20-4AC1-AAA5-ED5EC123C1BB"] = true
+        }
+    },         
+}
 -- ======================================================================= --
 
 
