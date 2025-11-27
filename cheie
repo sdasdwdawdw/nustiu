@@ -175,7 +175,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyformatte"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["5BCABC4C-B007-44FA-9C61-5A7C3F6EFCBC"] = true
+            ["fe15ff49-9d78-4209-8a83-5c25c29ef470"] = true
         }
     },           
 }
