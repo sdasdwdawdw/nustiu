@@ -99,13 +99,19 @@ local VALID_KEYS_HWID_MAP = {
         HWIDs = {
             ["EEF2DD94-ADB3-4B0D-8C0C-9809AC444AD0"] = true
         }
+    },        
+    ["keyforbai"] = {
+        Expiration = "2026-10-03",
+        HWIDs = {
+            ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
+        }    
     },      
     ["keyforzenxth"] = {
         Expiration = "2026-10-04",
         HWIDs = {
             ["EA0D96A5-EF20-4AC1-AAA5-ED5EC123C1BB"] = true
         }
-    },         
+    },           
 }
 -- ======================================================================= --
 
