@@ -34,22 +34,22 @@ local VALID_KEYS_HWID_MAP = {
             ["D36FEDB2-DC4D-4B9F-97C9-F5C8A99921CF"] = true
         }
     },
-    ["fentanylkey"] = {
-        Expiration = "2026-10-03",
+    ["keyfororeo"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["7A014DD8-EAF3-4D33-A822-78D47E4E1B0B"] = true
+            ["E27F2E0F-20DD-4BDA-934E-86998669BE58"] = true
         }
     },
-    ["origamikey"] = {
-        Expiration = "2026-10-03",
+    ["keyfortws"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["28087A64-4F7E-466E-9B70-1ADCA30E5162"] = true
+            ["0135B756-3B1C-4C07-89BE-2FDA437E6E67"] = true
         }
     }, 
-    ["keyforcaidy"] = {
-        Expiration = "2026-10-03",
+    ["keyformiqalexx"] = {
+        Expiration = "2026-01-10",
         HWIDs = {
-            ["630A81E6-189F-4C4B-879D-CFCC8A87DE5E"] = true
+            ["F72440F5-E577-4819-A90D-05C3F87751CC"] = true
         }
     },     
     ["keyforyourussianmate"] = {
