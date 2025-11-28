@@ -201,6 +201,48 @@ local VALID_KEYS_HWID_MAP = {
         HWIDs = {
             ["0438A1EC-27BB-42F8-A2C5-7C797FAF1923"] = true
         }
+    },
+    ["keyforgang"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            ["89980EB3-16B0-4BCA-B5A8-039DE7C85EE3"] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
     },      
     ["keyformatte"] = {
         Expiration = "2026-01-10",
