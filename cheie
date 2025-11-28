@@ -142,10 +142,10 @@ local VALID_KEYS_HWID_MAP = {
             ["3081900E-0EED-4B83-ADC4-87BA1F482793"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforspiderman"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["b1c05cc7-0143-4681-b30f-18d57e8cfbbb"] = true
         }
     },
     ["keyfor"] = {
