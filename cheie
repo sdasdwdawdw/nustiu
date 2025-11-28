@@ -208,10 +208,10 @@ local VALID_KEYS_HWID_MAP = {
             ["89980EB3-16B0-4BCA-B5A8-039DE7C85EE3"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforvimsisim"] = {
+        Expiration = "2026-01-6",
         HWIDs = {
-            [""] = true
+            ["058F4D15-D906-413B-B08C-7828461E1D4F"] = true
         }
     },
     ["keyfor"] = {
