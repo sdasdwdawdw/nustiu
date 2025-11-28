@@ -205,7 +205,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforgang"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["89980EB3-16B0-4BCA-B5A8-039DE7C85EE3"] = true
+            [""] = true
         }
     },
     ["keyfor"] = {
