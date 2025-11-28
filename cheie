@@ -170,7 +170,37 @@ local VALID_KEYS_HWID_MAP = {
         Expiration = "2026-01-10",
         HWIDs = {
             ["BC1B5090-5043-4D86-8DA5-C49A9025070D"] = true
-        } 
+        }
+    },
+    ["keyforpabelo"] = {
+        Expiration = "2026-01-8",
+        HWIDs = {
+            ["A8BA0624-039D-45C8-9F20-18F47B26E28B"] = true
+        }
+    },
+    ["keyforrui"] = {
+        Expiration = "2026-01-11",
+        HWIDs = {
+            ["24321044-23A2-44C4-AF9B-F2456AE72C94"] = true
+        }
+    },
+    ["keyforvvs"] = {
+        Expiration = "2026-01-02",
+        HWIDs = {
+            ["46F28A3B-5590-402B-A237-F672AE53DA33"] = true
+        }
+    },
+    ["keyforrat1o"] = {
+        Expiration = "2026-01-1",
+        HWIDs = {
+            ["9A748216-8139-4672-8AE2-8B7F0CA28A7C"] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
     },      
     ["keyformatte"] = {
         Expiration = "2026-01-10",
