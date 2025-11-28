@@ -211,13 +211,13 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforvimsisim"] = {
         Expiration = "2026-01-6",
         HWIDs = {
-            ["058F4D15-D906-413B-B08C-7828461E1D4F"] = true
+            ["E32F05E0-1659-4154-B816-3FBB4EDC0105"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyfornovak"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["D742B2D7-75AC-4663-A9EC-46B13977F13C"] = true
         }
     },
     ["keyfor"] = {
