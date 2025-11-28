@@ -166,10 +166,10 @@ local VALID_KEYS_HWID_MAP = {
             ["5a030287-59a7-4751-a547-14f4ef20252f"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforr3venant"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["BC1B5090-5043-4D86-8DA5-C49A9025070D"] = true
         } 
     },      
     ["keyformatte"] = {
