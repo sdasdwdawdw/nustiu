@@ -220,10 +220,10 @@ local VALID_KEYS_HWID_MAP = {
             ["D742B2D7-75AC-4663-A9EC-46B13977F13C"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforevilcereal"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["A7464015-ABA0-44AC-988D-C4768F84682A"] = true
         }
     },
     ["keyfor"] = {
