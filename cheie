@@ -154,10 +154,10 @@ local VALID_KEYS_HWID_MAP = {
             ["C958034B-787B-4AF2-84C7-C0197330B9D7"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforxsoteri"] = {
+        Expiration = "2026-01-01",
         HWIDs = {
-            [""] = true
+            ["7dcefa90-9978-4263-a428-ccac2dac2b67"] = true
         }
     },
     ["keyfor"] = {
