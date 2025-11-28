@@ -148,10 +148,10 @@ local VALID_KEYS_HWID_MAP = {
             ["b1c05cc7-0143-4681-b30f-18d57e8cfbbb"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforchica"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["C958034B-787B-4AF2-84C7-C0197330B9D7"] = true
         }
     },
     ["keyfor"] = {
