@@ -185,15 +185,15 @@ local VALID_KEYS_HWID_MAP = {
         }
     },
     ["keyforvvs"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2026-01-02",
         HWIDs = {
             ["46F28A3B-5590-402B-A237-F672AE53DA33"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforrat1o"] = {
+        Expiration = "2026-01-1",
         HWIDs = {
-            [""] = true
+            ["9A748216-8139-4672-8AE2-8B7F0CA28A7C"] = true
         }
     },
     ["keyfor"] = {
