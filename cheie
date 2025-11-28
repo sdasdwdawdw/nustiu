@@ -215,7 +215,7 @@ local VALID_KEYS_HWID_MAP = {
         }
     },
     ["keyfornovak"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2026-01-02",
         HWIDs = {
             ["D742B2D7-75AC-4663-A9EC-46B13977F13C"] = true
         }
