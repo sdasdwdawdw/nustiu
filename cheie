@@ -178,16 +178,16 @@ local VALID_KEYS_HWID_MAP = {
             ["A8BA0624-039D-45C8-9F20-18F47B26E28B"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforrui"] = {
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["24321044-23A2-44C4-AF9B-F2456AE72C94"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforvvs"] = {
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["46F28A3B-5590-402B-A237-F672AE53DA33"] = true
         }
     },
     ["keyfor"] = {
