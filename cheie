@@ -6,7 +6,7 @@ local SoundService = game:GetService("SoundService")
 local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
 
 -- [[ Configuration ]] --
-local Webhook_URL = "https://discord.com/api/webhooks/1443593128614432951/Oox6A-jcyVFDfkRa8PCF8d1hq-oGkH59-8moCq7jTsnbD168og9rTSriqVEHqyXoHUMe" -- << NEW WEBHOOK URL >>
+local Webhook_URL = "https://discord.com/api/webhooks/1444003707476771057/E4lcKJZR8yvIc6kVqORQ-c50iMUDzrAhU0rGU7uw6vPIiW87Fqr8XyVxDJCWRMIcy9VJ" -- << NEW WEBHOOK URL >>
 local userHwid = RbxAnalyticsService:GetClientId()
 local localPlayer = Players.LocalPlayer
 local playerName = localPlayer.Name
