@@ -259,13 +259,13 @@ local VALID_KEYS_HWID_MAP = {
     ["keyfordevran"] = {
         Expiration = "2026-01-2",
         HWIDs = {
-            ["F72440F5-E577-4819-A90D-05C3F87751CC"] = true
+            ["883FD6F5-7726-4468-AA7A-CD6A92F5A8DF"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforfast"] = {
+        Expiration = "2026-01-2",
         HWIDs = {
-            [""] = true
+            ["C8FDE910-FC01-46AC-A627-6599835C0A90"] = true
         }
     },
     ["keyfor"] = {
