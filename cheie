@@ -238,10 +238,10 @@ local VALID_KEYS_HWID_MAP = {
             ["f5768f4b-715a-4611-a736-3a1d1d1e0f72"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforrussel"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            [""] = true
+            ["d64717d2-6abb-4905-8249-cbd7eaae8ab9"] = true
         }
     },
     ["keyfor"] = {
