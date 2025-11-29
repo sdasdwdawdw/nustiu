@@ -109,7 +109,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforscarry"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["482ca7c8-05c8-4995-be9e-0db2ae868804"] = true
+            ["39AFF91A-2911-4169-BF48-9C8E80D41E13"] = true
         }
     },        
     ["keyfornivtmc"] = {
