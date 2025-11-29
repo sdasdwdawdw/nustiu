@@ -67,7 +67,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforrecyla"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["ca26f890-f2a0-41db-a8b3-be475b28cdbb"] = true
+            ["09a37ad2-bcdf-4a12-8761-c325ce8539eb"] = true
         }
     },      
     ["keyforhg"] = {
