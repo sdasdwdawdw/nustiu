@@ -103,7 +103,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforqriz"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["DE9A7EA1-BCCC-4867-B7CA-E24DEB916878"] = true
+            ["14B514DA-84E7-484C-93AA-0FFF8071BE9C"] = true
         }
     },        
     ["keyforscarry"] = {
