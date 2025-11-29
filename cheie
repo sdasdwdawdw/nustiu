@@ -232,6 +232,54 @@ local VALID_KEYS_HWID_MAP = {
             ["1E87A610-AD2B-4A89-A8CF-89D5D4DA876A"] = true
         }
     },
+    ["keyfordauqanx"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            ["f5768f4b-715a-4611-a736-3a1d1d1e0f72"] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
     ["keyfor"] = {
         Expiration = "2026-01-10",
         HWIDs = {
