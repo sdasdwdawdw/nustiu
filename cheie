@@ -220,10 +220,10 @@ local VALID_KEYS_HWID_MAP = {
             ["D742B2D7-75AC-4663-A9EC-46B13977F13C"] = true
         }
     },
-    ["keyforbai"] = {
-        Expiration = "2026-01-10",
+    ["keyforbelly"] = {
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["1A80C721-E447-434E-8761-067DF5E2E558"] = true
         }
     },
     ["keyfor"] = {
