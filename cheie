@@ -250,10 +250,10 @@ local VALID_KEYS_HWID_MAP = {
             ["2C5D7B2A-ECEA-406F-92F2-1F3D76B0FA24"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforlangur"] = {
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["186D7D3D-BB95-4924-AA78-CA9D5BAFC2A7"] = true
         }
     },
     ["keyfor"] = {
