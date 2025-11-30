@@ -280,10 +280,10 @@ local VALID_KEYS_HWID_MAP = {
             ["00E1035D-10D5-439E-94AA-285888B78A01"] = true
         }
     },
-    ["test"] = {
+    ["keyforsander"] = {
         Expiration = "2026-01-10",
         HWIDs = {
-            ["116F7003-B10A-4161-86D3-39DF678BAFCE"] = true
+            [""] = true
         }
     },
     ["keyfor"] = {
