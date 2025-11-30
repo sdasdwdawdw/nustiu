@@ -280,7 +280,7 @@ local VALID_KEYS_HWID_MAP = {
             ["00E1035D-10D5-439E-94AA-285888B78A01"] = true
         }
     },
-    ["keyforsander"] = {
+    ["keyfor"] = {
         Expiration = "2026-01-10",
         HWIDs = {
             [""] = true
@@ -290,6 +290,84 @@ local VALID_KEYS_HWID_MAP = {
         Expiration = "2026-01-10",
         HWIDs = {
             [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor17"] = {
+        Expiration = "2026-01-10",
+        HWIDs = {
+            ["5C6EAC31-36CA-417B-B7C5-F168BA933CA3"] = true
         }
     },      
     ["keyformatte"] = {
