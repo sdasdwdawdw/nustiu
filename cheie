@@ -268,13 +268,13 @@ local VALID_KEYS_HWID_MAP = {
             ["C8FDE910-FC01-46AC-A627-6599835C0A90"] = true
         }
     },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+    ["keyforkj"] = {
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["89C582A1-6157-430E-91EE-4D200031202A"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforalice"] = {
         Expiration = "2026-01-10",
         HWIDs = {
             [""] = true
