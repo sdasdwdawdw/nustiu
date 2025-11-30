@@ -275,9 +275,9 @@ local VALID_KEYS_HWID_MAP = {
         }
     },
     ["keyforalice"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2026-01-11",
         HWIDs = {
-            [""] = true
+            ["00E1035D-10D5-439E-94AA-285888B78A01"] = true
         }
     },
     ["keyfor"] = {
