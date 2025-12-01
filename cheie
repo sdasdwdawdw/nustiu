@@ -316,10 +316,10 @@ local VALID_KEYS_HWID_MAP = {
             ["AE9BBC93-BEC7-4BC1-9A0A-F9E27039816B"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforglitch"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            [""] = true
+            ["6994363F-59FE-49FD-8643-F2035619BDE5"] = true
         }
     },
     ["keyfor"] = {
