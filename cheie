@@ -310,10 +310,10 @@ local VALID_KEYS_HWID_MAP = {
             ["AD37D239-845F-4D17-8F8F-7C13A989025C"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforpork"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            [""] = true
+            ["AE9BBC93-BEC7-4BC1-9A0A-F9E27039816B"] = true
         }
     },
     ["keyfor"] = {
