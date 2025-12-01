@@ -35,73 +35,73 @@ local VALID_KEYS_HWID_MAP = {
         }
     },
     ["keyfororeo"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["E27F2E0F-20DD-4BDA-934E-86998669BE58"] = true
         }
     },
     ["keyfortws"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["0135B756-3B1C-4C07-89BE-2FDA437E6E67"] = true
         }
     }, 
     ["keyformiqalexx"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["F72440F5-E577-4819-A90D-05C3F87751CC"] = true
         }
     },     
     ["keyforjaber"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["67993c2b-e6c4-4faf-a1c0-4f4cfda826c2"] = true
         }
     },    
     ["keyforgolem"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["E3439AC3-7254-4526-B062-6DFD34DAFD68"] = true
         }
     },        
     ["keyforrecyla"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["09a37ad2-bcdf-4a12-8761-c325ce8539eb"] = true
         }
     },      
     ["keyforhg"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["FFA01121-BAF5-4E66-B02E-A2A43ACFF279"] = true
         }
     },        
     ["keyforlikegun"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["9FBE141E-AF92-43D0-9758-5304405139CF"] = true
         }
     },       
     ["keyforretro"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["e364df3c-1659-4074-b45f-a3f1586dd1d0"] = true
         }
     },        
     ["keyfordon"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["17c889c7-3f71-47f8-b4b6-add13286b75f"] = true
         }
     },        
     ["keyforzuksik"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["9A326F60-ABC8-478C-9599-92325208B363"] = true
         }
     },        
     ["keyforqriz"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["14B514DA-84E7-484C-93AA-0FFF8071BE9C"] = true
         }
@@ -113,265 +113,265 @@ local VALID_KEYS_HWID_MAP = {
         }
     },        
     ["keyfornivtmc"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["3A74761C-DA92-4EA8-B620-EEB71283B25A"] = true
         }
     },        
     ["keyforskibidi"] = {
-        Expiration = "2026-01-01",
+        Expiration = "2025-12-06",
         HWIDs = {
             ["6CD24723-13D2-4599-B084-DF704E60D602"] = true
         }
     },        
     ["keyformypkapro"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["28F03B0B-3180-4720-A595-EE3D22E02225"] = true
         }
     },
     ["keyfornotcool"] = {
-        Expiration = "2026-01-07",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["A0C2A3DB-085B-4319-BDFE-00AA6E44BAE3"] = true
         }
     },
     ["keyfortenodmidasa"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["3081900E-0EED-4B83-ADC4-87BA1F482793"] = true
         }
     },
     ["keyforspiderman"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["b1c05cc7-0143-4681-b30f-18d57e8cfbbb"] = true
         }
     },
     ["keyforchica"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["C958034B-787B-4AF2-84C7-C0197330B9D7"] = true
         }
     },
     ["keyforxsoteri"] = {
-        Expiration = "2026-01-01",
+        Expiration = "2025-12-06",
         HWIDs = {
             ["7dcefa90-9978-4263-a428-ccac2dac2b67"] = true
         }
     },
     ["keyforzazl"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["5a030287-59a7-4751-a547-14f4ef20252f"] = true
         }
     },
     ["keyforr3venant"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["BC1B5090-5043-4D86-8DA5-C49A9025070D"] = true
         }
     },
     ["keyforpabelo"] = {
-        Expiration = "2026-01-8",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["A8BA0624-039D-45C8-9F20-18F47B26E28B"] = true
         }
     },
     ["keyforrui"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["24321044-23A2-44C4-AF9B-F2456AE72C94"] = true
         }
     },
     ["keyforvvs"] = {
-        Expiration = "2026-01-02",
+        Expiration = "2025-12-06",
         HWIDs = {
             ["46F28A3B-5590-402B-A237-F672AE53DA33"] = true
         }
     },
     ["keyforrat1o"] = {
-        Expiration = "2026-01-1",
+        Expiration = "2025-12-06",
         HWIDs = {
             ["9A748216-8139-4672-8AE2-8B7F0CA28A7C"] = true
         }
     },
     ["keyforpabs"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["0438A1EC-27BB-42F8-A2C5-7C797FAF1923"] = true
         }
     },
     ["keyforripkdz"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["89980EB3-16B0-4BCA-B5A8-039DE7C85EE3"] = true
         }
     },
     ["keyforvimsisim"] = {
-        Expiration = "2026-01-6",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["E32F05E0-1659-4154-B816-3FBB4EDC0105"] = true
         }
     },
     ["keyfornovak"] = {
-        Expiration = "2026-01-02",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["D742B2D7-75AC-4663-A9EC-46B13977F13C"] = true
         }
     },
     ["keyforbelly"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["1A80C721-E447-434E-8761-067DF5E2E558"] = true
         }
     },
     ["keyformeler"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["1E87A610-AD2B-4A89-A8CF-89D5D4DA876A"] = true
         }
     },
     ["keyfordauqanx"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["f5768f4b-715a-4611-a736-3a1d1d1e0f72"] = true
         }
     },
     ["keyforrussel"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["d64717d2-6abb-4905-8249-cbd7eaae8ab9"] = true
         }
     },
     ["keyforcassidy"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["2C5D7B2A-ECEA-406F-92F2-1F3D76B0FA24"] = true
         }
     },
     ["keyforlangur"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["186D7D3D-BB95-4924-AA78-CA9D5BAFC2A7"] = true
         }
     },
     ["keyfordevran"] = {
-        Expiration = "2026-01-2",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["883FD6F5-7726-4468-AA7A-CD6A92F5A8DF"] = true
         }
     },
     ["keyforfast"] = {
-        Expiration = "2026-01-2",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["C8FDE910-FC01-46AC-A627-6599835C0A90"] = true
         }
     },
     ["keyforkj"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["89C582A1-6157-430E-91EE-4D200031202A"] = true
         }
     },
     ["keyforalice"] = {
-        Expiration = "2026-01-11",
+        Expiration = "2025-12-14-",
         HWIDs = {
             ["00E1035D-10D5-439E-94AA-285888B78A01"] = true
         }
     },
     ["keyforpancake"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["747C75FF-E9B3-43B1-9FF8-6B35B15E5B45"] = true
         }
     },
     ["keyforler"] = {
-        Expiration = "2026-01-14",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["F03ED391-8E24-46EC-9B35-67A07C7A09EC"] = true
         }
     },
+    ["keyfororang"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            ["b11828e2-d414-4e69-a5e4-fd413c4eed9f"] = true
+        }
+    },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor"] = {
-        Expiration = "2026-01-10",
-        HWIDs = {
-            [""] = true
-        }
-    },
-    ["keyfor"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             [""] = true
         }
     },
     ["keyfor17"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["5C6EAC31-36CA-417B-B7C5-F168BA933CA3"] = true
         }
     },      
     ["keyformatte"] = {
-        Expiration = "2026-01-10",
+        Expiration = "2025-12-14",
         HWIDs = {
             ["5BCABC4C-B007-44FA-9C61-5A7C3F6EFCBC"] = true
         }
