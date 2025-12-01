@@ -301,7 +301,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforoguring"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            ["DA112BBB-234C-4920-8FAF-6B8CF297E760"] = true
+            ["3C49E273-3370-4D30-A83E-B34CBCF47F45"] = true
         }
     },
     ["keyfor"] = {
