@@ -157,7 +157,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforxsoteri"] = {
         Expiration = "2025-12-06",
         HWIDs = {
-            ["7dcefa90-9978-4263-a428-ccac2dac2b67"] = true
+            ["07817788-2b55-48ea-a565-a52c54cd727c"] = true
         }
     },
     ["keyforzazl"] = {
