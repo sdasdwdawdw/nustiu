@@ -352,10 +352,10 @@ local VALID_KEYS_HWID_MAP = {
             ["ED43FD00-CCE6-4F84-AE87-809F1F1D0891"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforrandom"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            [""] = true
+            ["08650513-D1B1-4BBD-A46B-8709EED53F08"] = true
         }
     },
     ["keyfor"] = {
