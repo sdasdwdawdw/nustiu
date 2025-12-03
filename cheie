@@ -16,7 +16,7 @@ local playerName = localPlayer.Name
 -- ======================================================================= --
 local ADMIN_KEYS = {
     ["suntgang"] = true, -- Klucze admina nie wygasają
-    ["keyisyoursheart"] = true
+    ["bamuie"] = true
 }
 -- ======================================================================= --
 
@@ -356,6 +356,54 @@ local VALID_KEYS_HWID_MAP = {
         Expiration = "2025-12-14",
         HWIDs = {
             ["08650513-D1B1-4BBD-A46B-8709EED53F08"] = true
+        }
+    },
+    ["keyforgubby"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            ["9D2A1974-FA66-4995-9FDA-9EC120ADCC67"] = true
+        }
+    },
+    ["keyforliterals"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            ["306E8D3D-8AED-4745-9FD8-C2980B4FB73E"] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
+        }
+    },
+    ["keyfor"] = {
+        Expiration = "2025-12-14",
+        HWIDs = {
+            [""] = true
         }
     },
     ["keyfor"] = {
