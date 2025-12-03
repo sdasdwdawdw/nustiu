@@ -85,7 +85,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforretro"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            ["e364df3c-1659-4074-b45f-a3f1586dd1d0"] = true
+            ["93b19c53-e812-47e4-b025-08ca3dd930d0"] = true
         }
     },        
     ["keyfordon"] = {
@@ -331,7 +331,7 @@ local VALID_KEYS_HWID_MAP = {
     ["keyforxzars"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            ["5D81C927-A1AA-4E02-A98E-26F8F2399F7B"] = true
+            ["93b19c53-e812-47e4-b025-08ca3dd930d0"] = true
         }
     },
     ["keyforsander"] = {
