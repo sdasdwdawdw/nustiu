@@ -388,10 +388,10 @@ local VALID_KEYS_HWID_MAP = {
             ["E3806997-85A9-4607-8F5B-C8C6DB64262D"] = true
         }
     },
-    ["keyfor"] = {
+    ["keyforpayton"] = {
         Expiration = "2025-12-14",
         HWIDs = {
-            [""] = true
+            ["41B15B63-B899-4662-AD5F-11C8942B8679"] = true
         }
     },
     ["keyfor"] = {
