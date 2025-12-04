@@ -15,7 +15,8 @@ local playerName = localPlayer.Name
 -- || Configure Admin Keys (Bypass HWID check & Expiration)             || --
 -- ======================================================================= --
 local ADMIN_KEYS = {
-    ["suntgang"] = true, -- Klucze admina nie wygasają
+    ["taci
+"] = true, -- Klucze admina nie wygasają
     ["bamuie"] = true
 }
 -- ======================================================================= --
